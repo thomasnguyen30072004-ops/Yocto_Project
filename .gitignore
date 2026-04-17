@@ -1,0 +1,6 @@
+build/tmp/
+build/sstate-cache/
+build/downloads/
+*.wic
+*.ext4
+*.tar.gz
